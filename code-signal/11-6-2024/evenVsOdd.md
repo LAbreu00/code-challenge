@@ -1,0 +1,1 @@
+Given an array of integers numbers, compare the sum of elements on even positions against the sum of elements on odd positions (0-based). Return "even" if the sum of elements on even positions is greater, "odd" if the sum of elements on odd positions is greater, or "equal" if both sums are equal.
